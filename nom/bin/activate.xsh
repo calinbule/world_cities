@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/home/shiftplusreturn/nominatim/nom"
+$VIRTUAL_ENV = r"/home/ubuntu/nominatim/nom"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
